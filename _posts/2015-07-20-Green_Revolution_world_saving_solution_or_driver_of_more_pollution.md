@@ -11,9 +11,6 @@ categories:
   - environment
   - farming
   - green Revolution
-  - market forces
-  - Micro-finance
-  - pesticides
   - British politics
   - subsidies
   - water conservation
