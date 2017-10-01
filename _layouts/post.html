@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<section>
+  <h2>{{post.title}}</h2>
+  <h3>{{post.intro}}</h3>
+  <p>{{page.date | date_to_long_string}}</p>
+  <div class="grid-left-noGutter">
+    <i class="fa fa-twitter col" aria-hidden="true"></i>
+    <i class="fa fa-facebook col" aria-hidden="true"></i>
+  </div><!--closing grid-->
+  <img src="{{post.image}}"/>
+
+  {{content}}
+
+</section>
+<section>
+  <div class="grid">
+    <div class="col-7">
+    <h2>Next up in {{post.categories}}</h2>
+    {% for post in site.post limit:5 offset:1 %}
+    <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
+    {% endfor %}
+  </div>
+  <div class="col-5">
+    <h3>Vox news</h3>
+    <!---insert rss feed-->
+  </div>
+</div>
+</section>
