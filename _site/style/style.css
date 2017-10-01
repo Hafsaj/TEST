@@ -43,7 +43,7 @@ a, i{
 footer{
 border-top: 4px solid #fff200;
 }
-/*Nav Dropdown*/
+/*Dropdown*/
 .dropdown {
   position: relative;
   display: inline-block;
@@ -61,8 +61,4 @@ border-top: 4px solid #fff200;
 }
 .dropdown:hover .dropdown_content {
   display: block;
-}
-/*Homepage grid*/
-.homepage_grid_post{
-  border-bottom: 3px solid grey;
 }
