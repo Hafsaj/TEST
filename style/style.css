@@ -10,12 +10,17 @@ h1, h2, h3, h4, h5, h6, a, p, span{
 }
 
 /*header styles*/
-header{
+header,
+footer{
   background-color: #F1F3F2;
   font-weight: bold;
   }
-  img{
+  .logo{
     width: 85%;
+  }
+  .author{
+    width:10%;
+    border-radius: 15px;
   }
 nav a{
   text-decoration: none;
@@ -27,6 +32,13 @@ a, i{
 .grid{
   text-align: right;
   padding: 2%;
+}
+/*footer styles*/
+.footer_nav a{
+  padding-right: 15%;
+}
+.grid-middle{
+  padding: 2% 10%;
 }
 /*Dropdown*/
 .dropdown {
