@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/stack_of_newspapers_UK_smaller.jpg
+image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: It's the first time my vote for a candidate for President has ever mattered, so I'm voting for...John Kasich
 description: I try to keep politics simple. I want to fight climate change. I like open borders. I like giving money and economic resources to people who need them most.
 categories:

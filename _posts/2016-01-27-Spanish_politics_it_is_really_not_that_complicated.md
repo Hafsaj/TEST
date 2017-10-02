@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/who_would_jesus_deport.jpg
+image: ../images/who_would_jesus_deport_1024px.jpg
 title: Spanish politics it's really not that complicated
 description: So remember when I said I was going to keep bragging about how I was right about Spanish politics? I haven't changed my mind about that.
 categories:

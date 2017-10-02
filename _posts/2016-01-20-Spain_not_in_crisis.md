@@ -1,6 +1,6 @@
 ---
 layout: post
-source: /images/stack_of_newspapers_UK_smaller.jpg
+source: ../images/stack_of_newspapers_UK_smaller.jpg
 post_title: Spain's not in crisis
 post_description: Reading Spanish newspapers and talking to Spanish friends and Spanish customers at my cafe, the sense is of a country in political disarray and crisis. 
 

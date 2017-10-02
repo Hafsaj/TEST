@@ -1,6 +1,6 @@
 ---
 layout: post
-images: /images/who_would_jesus_deport.jpg
+images: ../images/who_would_jesus_deport_1024px.jpg
 title: Why people who correct other people's grammar aren't just wrong but also tapping into (and entrenching) some pretty ugly politics
 description: One of the first things you learn in any introductory linguistics is to wholly reject the false idea that some varieties of speech are “correct” while others are “incorrect.”
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/pussy_power_hat_protest.jpg
+image: ../images/pussy_power_hat_protest_1024px.jpg
 title: A Hillary victory may open a Pandora's box of bad in 2018 and 2020
 description: Progressive wisdom-makers are overrating the importance to the country and the world of Hillary Clinton beating Donald Trump
 categories:

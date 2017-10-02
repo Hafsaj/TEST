@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/no_war_protest_poster.jpg
+image: ../images/no_war_protest_poster_1024px.jpg
 title: Game of Thrones in Egypt
 description: The story of how the Muslim Brotherhood won power through controversial elections only to lose that power a year later to a military takeover...
 categories:

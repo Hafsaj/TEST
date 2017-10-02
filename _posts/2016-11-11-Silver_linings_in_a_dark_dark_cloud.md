@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/black_lives_matter_protest_US.jpg
+image: ../images/black_lives_matter_protest_US_1024px.jpg
 title: Silver linings in a dark, dark cloud
 description: I voted for Hillary and was excited about the vote as an affirmation of what she represented to me....
 categories:

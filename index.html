@@ -11,21 +11,19 @@ post: /posts
     <div class="col-3">
       {% for post in site.posts limit:1 offset:1 %}
       <div class="homepage_grid_post">
-        <a href="{{post.url}}"><img src="{{post.image}}"/></a>
+        <a href="{{post.url}}"><img src="{{post.image}}" class="smaller_homepage_image"/></a>
         <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
         <a href="{{post.url}}"><p>{{post.description}}</p></a>
       </div>
       {% endfor %}
       {% for post in site.posts limit:1 %}
       <div class="homepage_grid_post">
-        <a href="{{post.url}}"><img src="{{post.image}}"/></a>
         <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
         <a href="{{post.url}}"><p>{{post.description}}</p></a>
       </div>
       {% endfor %}
       {% for post in site.posts limit:1 %}
       <div>
-        <a href="{{post.url}}"><img src="{{post.image}}"/></a>
         <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
         <a href="{{post.url}}"><p>{{post.description}}</p></a>
       </div>
@@ -34,7 +32,7 @@ post: /posts
     <div class="col-6">
       {% for post in site.posts limit:1 %}
       <div class="homepage_grid_post">
-        <a href="{{post.url}}"><img src="{{post.image}}"/></a>
+        <a href="{{post.url}}"><img src="{{post.image}}" class="main_homepage_image"/></a>
         <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
         <a href="{{post.url}}"><p>{{post.description}}</p></a>
       </div>
@@ -46,7 +44,7 @@ post: /posts
           <a href="{{post.url}}"><p>{{post.description}}</p></a>
         </div>
         <div class="col-3">
-        <a href="{{post.url}}"><img src="{{post.image}}"/></a>
+        <a href="{{post.url}}"><img src="{{post.image}}" class="smaller_homepage_image"/></a>
         </div>
       </div><!--closing mini-grid-->
       {% endfor %}
@@ -54,21 +52,19 @@ post: /posts
     <div class="col-3">
       {% for post in site.posts limit:1 offset:2 %}
       <div class="homepage_grid_post">
-        <a href="{{post.url}}"><img src="{{post.image}}"/></a>
+        <a href="{{post.url}}"><img src="{{post.image}}" class="smaller_homepage_image"/></a>
         <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
         <a href="{{post.url}}"><p>{{post.description}}</p></a>
       </div>
       {% endfor %}
       {% for post in site.posts limit:1 %}
       <div class="homepage_grid_post">
-        <a href="{{post.url}}"><img src="{{post.image}}"/></a>
         <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
         <a href="{{post.url}}"><p>{{post.description}}</p></a>
       </div>
       {% endfor %}
       {% for post in site.posts limit:1 %}
       <div>
-        <a href="{{post.url}}"><img src="{{post.image}}"/></a>
         <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
         <a href="{{post.url}}"><p>{{post.description}}</p></a>
       </div>

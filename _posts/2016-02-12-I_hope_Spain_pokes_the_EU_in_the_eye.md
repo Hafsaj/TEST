@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/stack_of_newspapers_UK_smaller.jpg
+image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: I hope Spain pokes the EU in the eye
 description: In 2015, Greece and the EU played a high-stakes game of chicken to resolve Greece's "debt" crisis. As you'll see in this post, I think the EU was the villain in that game.
 

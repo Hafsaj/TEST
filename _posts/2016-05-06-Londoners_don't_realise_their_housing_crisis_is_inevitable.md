@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/stack_of_newspapers_UK_smaller.jpg
+image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: Londoners do not realise their housing crisis is inevitable unless they start building denser and taller
 description: The candidates for mayor make noises about increasing housing stock, but the real emotion is in regulatory fixes.
 categories:

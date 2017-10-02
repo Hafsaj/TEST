@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/stack_of_newspapers_UK_smaller.jpg
+image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: Why I got it wrong Mariano Rajoy looks set to continue as Spain's prime minister
 description: Almost a year ago, I predicted that the Socialists would lead Spain’s next government.
 categories:

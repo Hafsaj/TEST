@@ -66,3 +66,9 @@ border-top: 4px solid #fff200;
 .homepage_grid_post{
   border-bottom: 3px solid grey;
 }
+.smaller_homepage_image{
+  width:80%;
+}
+.main_homepage_image{
+  width:95%;
+}

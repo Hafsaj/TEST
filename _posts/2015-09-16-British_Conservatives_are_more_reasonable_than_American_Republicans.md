@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/stack_of_newspapers_UK_smaller.jpg
+image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: Yes, British Conservatives are more reasonable than American Republicans on lots of issues -- but not on how to respond to recessions
 description: ...with the Conservatives owning the center, there's nowhere to go for Labour but left.
 categories:
