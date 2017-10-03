@@ -3,12 +3,8 @@ layout: post
 source: ../images/stack_of_newspapers_UK_smaller.jpg
 post_title: Spain's not in crisis
 post_description: Reading Spanish newspapers and talking to Spanish friends and Spanish customers at my cafe, the sense is of a country in political disarray and crisis. 
-
-categories:
-  - Spain
-  - Spanish politics
-  - political betting
-  - Austerity
+categories: [Politics_and_policy, Explainers, World]
+tags:  [Spain, Spanish politics, political betting, Austerity]
 ---
 
 Reading Spanish newspapers and talking to Spanish friends and Spanish customers at my cafe, the sense is of a country in political disarray and crisis. What's actually happened is simple: anti-austerity politics has arrived in Spain.

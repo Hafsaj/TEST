@@ -3,15 +3,8 @@ layout: post
 image: ../images/black_lives_matter_protest_US_1024px.jpg
 title: Silver linings in a dark, dark cloud
 description: I voted for Hillary and was excited about the vote as an affirmation of what she represented to me....
-categories:
-  - US
-  - politics
-  - US politics
-  - Hillary Clinton
-  - climate change
-  - environment
-  - Barack Obama
-  - election
+categories: [Politics_and_policy, Explainers]
+tag: [US, politics, US politics, Hillary Clinton, climate change, environment, Barack Obama, election]
 ---
 
 I voted for Hillary and was excited about the vote as an affirmation of what she represented to me: a <a href="http://www.vox.com/a/hillary-clinton-interview/the-gap-listener-leadership-quality">superlative listener and policy thinker</a> who would maintain and reaffirm Obama's policies to fight climate change, improve America's tattered social safety net, keep the economy on a steady course, and steadily move towards embodying the welcoming, open society we purport to represent.

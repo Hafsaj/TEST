@@ -3,15 +3,8 @@ layout: post
 image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: Why I got it wrong Mariano Rajoy looks set to continue as Spain's prime minister
 description: Almost a year ago, I predicted that the Socialists would lead Spain’s next government.
-categories:
-  - Spain
-  - Catalonia
-  - Podemos
-  - political betting
-  - politics
-  - Spanish politics
-  - psoe
-  - election
+categories: [Politics_and_policy, Explainers, World]
+tags: [Spain, Catalonia, Podemos, political betting, politics, Spanish politics, psoe, election]
 ---
 
 Almost a year ago, I <a href="https://foodandpoliticking.wordpress.com/2016/01/20/spains-not-in-crisis/">predicted</a> that the Socialists would lead Spain’s next government. I was so sure of this that I proceeded to write <a href="https://foodandpoliticking.wordpress.com/2016/01/21/its-in-various-spanish-party-leaders-interest-to-pretend-that-spanish-politics-are-in-disarray-even-though-the-path-forward-psoe-podemos-regional-parties-is-so-obvious/">more</a> posts gloating and <a href="https://foodandpoliticking.wordpress.com/2016/01/27/spanish-politics-its-really-not-that-comlicated/">lauding</a> myself **in advance** for correctly predicting what would happen.

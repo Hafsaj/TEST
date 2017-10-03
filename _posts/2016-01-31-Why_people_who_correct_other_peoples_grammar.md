@@ -3,11 +3,8 @@ layout: post
 images: ../images/who_would_jesus_deport_1024px.jpg
 title: Why people who correct other people's grammar aren't just wrong but also tapping into (and entrenching) some pretty ugly politics
 description: One of the first things you learn in any introductory linguistics is to wholly reject the false idea that some varieties of speech are “correct” while others are “incorrect.”
-categories:
-  - US
-  - linguistics
-  - pop culture
-  - racism
+categories: [Politics_and_policy, Explainers]
+tags:  [US, linguistics, pop culture, racism]
 ---
 
 One of the first things you learn in any introductory linguistics is to wholly reject the false idea that some varieties of speech are “correct” while others are “incorrect.” What you learn is that speaking “ungrammatically” is <a href="https://en.wikipedia.org/wiki/Grammaticality">by definition</a> <i>not possible</i> for someone who speaks a language as their first language. If they’re using a different sentence construction than you’re used to, that’s just a sign that they’re using a different language variety (with a different grammar) than you’re used to.

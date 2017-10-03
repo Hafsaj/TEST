@@ -3,13 +3,8 @@ layout: post
 image: /images/pussy_power_hat_protest_1024px.jpg
 title: This JustIn &#58 TrueThough Canada's cap and trade with price floors are great policy
 description: The details of Canada's plan to implement emissions pricing throughout Canada show an interesting nuance...
-categories:
-  - Canada
-  - politics
-  - north American politics
-  - climate change
-  - environment
-  - policy
+categories: [Politics_and_policy, Environment, Explainers]
+tags: [Canada, politics, north American politics, climate change, environment, policy]
 ---
 
 The details of Canada’s plan to implement emissions pricing throughout Canada show an interesting nuance to comparisons between carbon taxes and cap and trade. Policymakers often view them as two distinct tools which “put a price on carbon” in different ways.

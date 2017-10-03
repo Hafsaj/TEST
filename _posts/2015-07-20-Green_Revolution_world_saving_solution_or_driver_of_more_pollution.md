@@ -3,18 +3,8 @@ layout: post
 image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: Green Revolution &#58 world saving solution, or driver of ever more pollution
 description: The Green Revolution won its creator a peace prize; But its legacy is a mixed bag of lows along with the highs
-categories:
-  - UK
-  - agriculture
-  - bio
-  - conservation
-  - environment
-  - farming
-  - green Revolution
-  - British politics
-  - subsidies
-  - water conservation
-  - water use
+categories: [Politics_and_policy, Environment, Explainers, World]
+tags: [UK, agriculture, bio, conservation, environment, farming, green Revolution, British politics, subsidies, water conservation, water use]
 ---
 
 The 2.5 billion people inhabiting this planet in 1950 have just about tripled to over 7 billion today. Yet we haven't had mass starvation. Many thank the Green Revolution for this catastrophe avoided. The Green Revolution was a series of steps taken in Mexico, India, and later much of Asia and Latin America, where varieties of wheat (and later rice and other crops) were developed that yielded much more wheat (or rice, or what-have-you) per acre of farmland. Critics allege that the Green Revolution has been a mixed blessing at best; all of these high-yield varieties also require much higher inputs of fertiliser, water, <a href="https://instagram.com/p/4_6PAfkbd9/">matcha green tea*</a>, herbicide, and pesticides, and the Green Revolution is closely tied to the general trend away from traditional mixed-crop agriculture towards modern high-input single-crop farming.

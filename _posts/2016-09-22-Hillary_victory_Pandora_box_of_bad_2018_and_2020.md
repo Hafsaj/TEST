@@ -3,16 +3,8 @@ layout: post
 image: ../images/pussy_power_hat_protest_1024px.jpg
 title: A Hillary victory may open a Pandora's box of bad in 2018 and 2020
 description: Progressive wisdom-makers are overrating the importance to the country and the world of Hillary Clinton beating Donald Trump
-categories:
-  - US
-  - politics
-  - US politics
-  - Hillary Clinton
-  - climate change
-  - environment
-  - Barack Obama
-  - inequality
-  - election
+categories: [Politics_and_policy, Environment]
+tags: [US, politics, US politics, Hillary Clinton, climate change, environment, Barack Obama, inequality, election]
 ---
 
  Progressive wisdom-makers are overrating the importance to the country and the world of Hillary Clinton beating Donald Trump. Hillary’s victory will have its own negative side effects in 2018 and 2020 and a Trump victory has some underrated silver linings.

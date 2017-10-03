@@ -3,17 +3,8 @@ layout: post
 image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: It's the first time my vote for a candidate for President has ever mattered, so I'm voting for...John Kasich
 description: I try to keep politics simple. I want to fight climate change. I like open borders. I like giving money and economic resources to people who need them most.
-categories:
-  - US
-  - politics
-  - US politics
-  - Hillary Clinton
-  - climate change
-  - environment
-  - Barack Obama
-  - election
-  - John Kasich
-  - California
+categories: [Politics_and_policy, Environment, Explainers]
+tags:  [US, politics, US politics, Hillary Clinton, climate change, environment, Barack Obama, election, John Kasich, California]
 ---
 
 California primaries are usually too late in the primary election cycle for their result to matter. And California has (in my lifetime) been too blue for its result to matter in the general election for President. This year, however, <a href="http://fivethirtyeight.com/features/a-state-by-state-roadmap-for-the-rest-of-the-republican-primary/">California's primary may be decisive</a>.

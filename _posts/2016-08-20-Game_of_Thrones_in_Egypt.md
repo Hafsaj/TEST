@@ -3,13 +3,8 @@ layout: post
 image: ../images/no_war_protest_poster_1024px.jpg
 title: Game of Thrones in Egypt
 description: The story of how the Muslim Brotherhood won power through controversial elections only to lose that power a year later to a military takeover...
-categories:
-  - arab springs
-  - politics
-  - Mohamed Morsi
-  - Ned Stark
-  - coup
-  - military
+categories: [Politics_and_policy, World]
+tags:  [arab springs, politics, Mohamed Morsi, Ned Stark, coup, military]
 ---
 
  The story of the Arab Spring in Egypt is, in broad strokes, the story of how the Muslim Brotherhood won power through controversial elections only to lose that power a year later to a military takeover that re-installed most of the same establishment that had ruled through iron fists and crony capitalism during the decades-long dictatorship of Hosni Mubarak.

@@ -3,10 +3,8 @@ layout: post
 images: ../images/who_would_jesus_deport_1024px.jpg
 title: The Socialists will definitely lead Spain's next Parliament
 description: I've decided I'm going to spend the next few weeks bragging about how I was right about Spain.
-categories:
-  - Spain
-  - Spanish politics
-  - Political betting
+categories: [Politics_and_policy, Explainers, World]
+tags:  [Spain, Spanish politics, Political betting]
 ---
 
 I've decided I'm going to spend the next few weeks bragging about how I was right about Spain. Unfortunately I can't find any betting odds about this. Anyway, it's not like I have money to bet anyway. I'll bet my reputation, instead.

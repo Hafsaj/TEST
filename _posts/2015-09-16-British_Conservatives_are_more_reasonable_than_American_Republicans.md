@@ -3,18 +3,8 @@ layout: post
 image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: Yes, British Conservatives are more reasonable than American Republicans on lots of issues -- but not on how to respond to recessions
 description: ...with the Conservatives owning the center, there's nowhere to go for Labour but left.
-categories:
-  - housing crisis
-  - politics
-  - London
-  - London mayor
-  - population density
-  - price signals
-  - rent
-  - rent too damn high
-  - urban planning
-  - UK
-  - British politics
+categories: [Politics_and_policy, Explainers]
+tags:  [housing crisis, politics, London, London mayor, population density, price signals, rent, rent too damn high, urban planning, UK, British politics]
 ---
 
 Living in England, I've been dimly aware of the recent Labour leadership contest, where a total outsider named Jeremy Corbyn won a stunning upset (betting markets had him at <a href="http://www.cityam.com/223763/labour-leadership-odds-how-have-runners-and-riders-performed-over-time">66:1</a> just a few months ago).

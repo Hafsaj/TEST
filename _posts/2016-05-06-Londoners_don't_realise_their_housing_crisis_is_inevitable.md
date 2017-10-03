@@ -3,18 +3,8 @@ layout: post
 image: ../images/stack_of_newspapers_UK_smaller.jpg
 title: Londoners do not realise their housing crisis is inevitable unless they start building denser and taller
 description: The candidates for mayor make noises about increasing housing stock, but the real emotion is in regulatory fixes.
-categories:
-  - housing crisis
-  - politics
-  - London
-  - London mayor
-  - population density
-  - price signals
-  - rent
-  - rent too damn high
-  - urban planning
-  - UK
-  - British politics
+categories: [Politics_and_policy, Explainers]
+tags:  [housing crisis, politics, London, London mayor, population density, price signals, rent, rent too damn high, urban planning, UK, British politics]
 ---
 
  In London, everyone agrees the rent is too damn high. But instead of demanding new housing, Londoners are obsessed with the idea that they can solve their housing crisis by regulating it away. The candidates for mayor make noises about increasing housing stock, but the real emotion is in regulatory fixes.
