@@ -79,7 +79,8 @@ border-top: 4px solid #fff200;
 }
 #homepage,
 .latest,
-.content_group{
+.content_group,
+.post_body{
   margin:5%;
 }
 .yellow_border_wrapper{
@@ -107,4 +108,16 @@ border-top: 4px solid #fff200;
   top: 0;
   left: 0;
   border-top: 5px solid #fff952;
+}
+/*post style*/
+.post_body a{
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0;
+}
+.post_body i{
+  padding: 0;
+}
+blockquote{
+  background-color: #F1F3F2;
 }

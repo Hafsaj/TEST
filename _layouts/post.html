@@ -1,24 +1,38 @@
 ---
 layout: default
+post: /posts
 ---
-<section>
+<section class="post_body">
   <h2>{{post.title}}</h2>
   <h3>{{post.intro}}</h3>
   <p>{{page.date | date_to_long_string}}</p>
-  <div class="grid-left-noGutter">
-    <i class="fa fa-twitter col" aria-hidden="true"></i>
-    <i class="fa fa-facebook col" aria-hidden="true"></i>
-  </div><!--closing grid-->
+  <div>
+    <i class="fa fa-twitter" aria-hidden="true"></i>
+    <i class="fa fa-facebook" aria-hidden="true"></i>
+  </div>
   <img src="{{post.image}}"/>
 
 {{content}}
 
+<!---code for categories--->
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
+<!--code for categories ends-->
 </section>
 <section>
   <div class="grid">
     <div class="col-7">
     <h2>Next up in {{post.categories}}</h2>
-    {% for post in site.post limit:5 offset:1 %}
+    {% for post in site.posts limit:5 offset:1 %}
     <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
     {% endfor %}
   </div>
