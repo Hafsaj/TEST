@@ -1,5 +1,46 @@
 ---
-layout: content_group
-post: /posts
+layout: default
 title: Environment
 ---
+<section class="content_group">
+<h1>{{page.title}}</h1>
+<div class="yellow_border_wrapper">
+  <span class="yellow_wrapper"></span>
+  <div class="grid">
+    <div class="col-6">
+      {% for post in site.categories.Environment limit: 1%}
+      <a href="{{post.url}}"><img src="{{post.image}}"class="main_image"/></a>
+      <a href="{{post.url}}"><h2>{{post.title}}</h2></a>
+      {% endfor %}
+    </div>
+    <div class="col-6">
+      {% for post in site.categories.Environment limit: 1 offset: 1 %}
+      <a href="{{post.url}}"><img src="{{post.image}}" class="main_image"/></a>
+      <a href="{{post.url}}"><h2>{{post.title}}</h2></a>
+      {% endfor %}
+    </div>
+  </div><!--closing grid-->
+</div><!--closing wrapper-->
+<h2 class"latest_title">The latest</h2>
+<div class="yellow_border_wrapper">
+  <span class="small_yellow_border"></span>
+  <div class="grid">
+    <div class="col-8 grid">
+      {% for post in site.categories.Environment limit:3 offset: 2 %}
+      <div class="col-5">
+        <a href="{{post.url}}"><img src="{{post.image}}" class="latest_post_image"/></a>
+      </div>
+      <div class="col-7">
+        <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
+        <p>{{page.date | date_to_long_string}}</p>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="col-4">
+      <h3>Vox news</h3>
+      <!---RSS feed-->
+    </div>
+  </div><!--closing grid-->
+</div>
+
+</section>

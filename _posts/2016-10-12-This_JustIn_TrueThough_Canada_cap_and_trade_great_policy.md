@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /images/pussy_power_hat_protest_1024px.jpg
+image: /images/Taipei_green_city_environment_1024px.jpg
 title: This JustIn &#58 TrueThough Canada's cap and trade with price floors are great policy
 description: The details of Canada's plan to implement emissions pricing throughout Canada show an interesting nuance...
 categories: [Politics_and_policy, Environment, Explainers]
