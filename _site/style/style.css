@@ -80,7 +80,8 @@ border-top: 4px solid #fff200;
 #homepage,
 .latest,
 .content_group,
-.post_body{
+.post_body,
+.next_up{
   margin:5%;
 }
 .yellow_border_wrapper{

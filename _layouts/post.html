@@ -7,31 +7,18 @@ post: /posts
   <h3>{{post.intro}}</h3>
   <p>{{page.date | date_to_long_string}}</p>
   <div>
-    <i class="fa fa-twitter" aria-hidden="true"></i>
-    <i class="fa fa-facebook" aria-hidden="true"></i>
+    <i class="fa fa-twitter" aria-hidden="true"> Tweet</i>
+    <i class="fa fa-facebook" aria-hidden="true"> Share</i>
   </div>
   <img src="{{post.image}}"/>
 
 {{content}}
 
-<!---code for categories--->
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-<!--code for categories ends-->
 </section>
-<section>
+<section class="next_up">
   <div class="grid">
     <div class="col-7">
-    <h2>Next up in {{post.categories}}</h2>
+    <h2>Next up in {{site.categories}}</h2>
     {% for post in site.posts limit:5 offset:1 %}
     <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
     {% endfor %}
