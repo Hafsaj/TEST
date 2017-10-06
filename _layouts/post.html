@@ -2,23 +2,42 @@
 layout: default
 post: /posts
 ---
-<section class="post_body">
+<section>
+  <div class="post_body">
   <h2>{{post.title}}</h2>
   <h3>{{post.intro}}</h3>
   <p>{{page.date | date_to_long_string}}</p>
   <div>
-    <i class="fa fa-twitter" aria-hidden="true"> Tweet</i>
-    <i class="fa fa-facebook" aria-hidden="true"> Share</i>
+    <a href="https://twitter.com"><i class="fa fa-twitter post_twitter" aria-hidden="true"> Tweet</i></a>
+    <a href="https://www.facebook.com"><i class="fa fa-facebook post_facebook" aria-hidden="true"> Share</i></a>
   </div>
-  <img src="{{post.image}}"/>
+  <img src="{{post.image}}" class="post_image"/>
+</div>
 
+  <!--Beginning sticky nav-->
+  <div class="grid" id="sticky_nav">
+    <div class="col-3">
+      <a href="/index.html"><img src="/images/Food+Politicking_transparent.png" alt="Logo" class="logo"/></a>
+    </div>
+    <div class="col-2 social_sticky">
+      <a href="https://twitter.com"><i class="fa fa-twitter post_twitter" aria-hidden="true"> Tweet</i></a>
+      <a href="https://www.facebook.com"><i class="fa fa-facebook post_facebook" aria-hidden="true"> Share</i></a>
+    </div>
+  </div>
+  <!--end sticky nav-->
+
+<div class="post_body">
 {{content}}
+</div>
 
 </section>
 <section class="next_up">
   <div class="grid">
     <div class="col-7">
-    <h2>Next up in {{site.categories}}</h2>
+    <h2>Next up in</h2>
+    {% for category in site.categories limit:1 %}
+    <h2 class="category_style">"{{ category | first |uniq }}"{% unless forloop.last %},{% endunless %}</h2>
+    {% endfor %}
     {% for post in site.posts limit:5 offset:1 %}
     <a href="{{post.url}}"><h3>{{post.title}}</h3></a>
     {% endfor %}
